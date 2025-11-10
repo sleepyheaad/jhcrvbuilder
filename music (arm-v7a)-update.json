@@ -1,6 +1,6 @@
 {
-  "version": "v8.10.52 (patches 5.45.0)",
-  "versionCode": 5,
-  "zipUrl": "https://github.com/sleepyheaad/jhcrvbuilder/releases/download/5/music-revanced-magisk-v8.10.52-arm-v7a.zip",
+  "version": "v8.10.52 (patches 5.46.0)",
+  "versionCode": 6,
+  "zipUrl": "https://github.com/sleepyheaad/jhcrvbuilder/releases/download/6/music-revanced-magisk-v8.10.52-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/sleepyheaad/jhcrvbuilder/update/build.md"
 }
